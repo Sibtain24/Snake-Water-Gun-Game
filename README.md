@@ -5,13 +5,13 @@ Program created by - Sibtain Raza
 
 1) Run the 'main.py' file.
 
-2) You will be welcomed by the menu where you have to make your choice. If you want to play the game, press 1 and if you want to quit, press 2.
+2) You will be welcomed with a menu where you have to make your choice. If you want to play the game, press 1 and if you want to quit, press 2.
 
-3) If you choose 1, the game will start and it will ask you to enter a number between 1 to 3, where, 1 is for selecting Snake, 2 is for selecting Water and 3 is for selecting Gun.
+3) If you choose 1, the game will start and it will ask you to enter a number between 1 to 3, where, 1 is for selecting Snake 🐍, 2 is for selecting Water 💧 and 3 is for selecting Gun 🔫.
 
-4) Computer will randomly choose one of the objects (Snake/Water/Gun) and after you enter your choice, you will get the result.
+4) Computer will randomly choose one of the objects (Snake/Water/Gun) and after you enter your choice, the result will be displayed.
 
-5) Rules for the Game are listed below.
+5) Rules of this Game are listed below.
 
 
 # Rules of the Snake, Water, Gun Game:
@@ -28,4 +28,4 @@ Program created by - Sibtain Raza
     Gun vs. Snake: Gun kills the snake and wins
     Draw: If both players choose the same object, the result is a draw
 
-*** Play and Enjoy ***
+*** Play and Enjoy 😀 ***
