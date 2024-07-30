@@ -1,6 +1,8 @@
 # Python-Snake-Water-Gun-Game
 Program created by - Sibtain Raza
 
+![Snake Water Gun Game](https://github.com/user-attachments/assets/054d055f-11c8-4701-91d1-a1dc763a4ff6)
+
 # Instructions to play this game:
 
 1) Run the 'Snake, Water, Gun Game.exe' or 'main.py' file.
