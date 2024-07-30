@@ -3,7 +3,7 @@ Program created by - Sibtain Raza
 
 # Instructions to play this game:
 
-1) Run the 'main.py' file.
+1) Run the 'Snake, Water, Gun Game.exe' or 'main.py' file.
 
 2) You will be welcomed with a menu where you have to make your choice. If you want to play the game, press 1 and if you want to quit, press 2.
 
