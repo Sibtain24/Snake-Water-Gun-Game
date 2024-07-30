@@ -16,7 +16,7 @@ Program created by - Sibtain Raza
 5) Rules of this Game are listed below.
 
 
-# Rules of the Snake, Water, Gun Game:
+# Rules of the "Snake, Water, Gun" Game:
 
 1) Two players choose one of three objects: snake, water, or gun
 
