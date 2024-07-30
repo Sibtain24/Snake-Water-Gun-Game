@@ -23,9 +23,13 @@ Program created by - Sibtain Raza
 3) The player who plays the strongest "object" wins
 
 4) The results are:
+   <br>
     Snake vs. Water: Snake wins by drinking the water
+   <br>
     Water vs. Gun: Gun drowns in water, giving a point to water
+   <br>
     Gun vs. Snake: Gun kills the snake and wins
+   <br>
     Draw: If both players choose the same object, the result is a draw
 
 *** Play and Enjoy 😀 ***
