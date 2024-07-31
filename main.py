@@ -1,6 +1,7 @@
 # Project: Creating Snake, Water, Gun Game (For rules, refer to the Readme file)
 
 import random # Import random module
+import time # Import time module
 
 def game():
     
@@ -46,6 +47,7 @@ while True:
         game()
     elif choice==2:
         print("\nQuitting the Game.....")
+        time.sleep(2)
         break
     elif (choice>2) or (choice<1):
         print("\nInvalid choice, enter number 1 or 2.")
